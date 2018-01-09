@@ -1,0 +1,49 @@
+body{
+	background: url("../images/dcvsmarvel.jpg");
+	background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+}
+* {
+	box-sizing: border-box;
+}
+img { 
+    height: 150px;
+    width: 180px;
+}
+.btn {
+    margin: 3px;
+    background-color: #7a7a7a;
+    border-color: #fff;
+}
+.gifDiv{
+    float: left;
+    margin: 5px;
+}
+.container {
+	background-color: rgb(202, 202, 202);
+	opacity: 1;
+    padding: 20px;
+    font-weight: bold;
+    color: rgb(231, 62, 62);
+}
+.jumbotron {
+    background-color: inherit;
+}
+.jumbotron .h1, .jumbotron h1 {
+    text-align: center;
+}
+#copyright{
+    color: rgb(230, 76, 76);
+	font-size: 14px;
+}
+div#footer {
+	clear: both;
+	margin-top: 40px;
+	position: center;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+}
+
+
